@@ -34,4 +34,4 @@ Este es un juego simple de "Piedra, Papel o Tijeras" donde el jugador compite co
 Asegúrate de tener Python instalado. Luego, en la terminal:
 
 ```bash
-python piedra_papel_tijeras.py
+python main.py
