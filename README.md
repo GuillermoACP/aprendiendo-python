@@ -11,15 +11,7 @@ Este repositorio documenta mi proceso de aprendizaje desde Python básico hasta 
 
 ## 📂 Estructura del repositorio
 
-- `01-python-basico`: ejercicios con condiciones, bucles, funciones, juegos.
-- `02-poo`: ejemplos con clases, herencia, encapsulamiento.
-- `03-cientifico-datos`: proyectos con Pandas, Matplotlib, análisis de datos.
-- `04-machine-learning`: modelos con scikit-learn (regresión, clasificación).
-- `05-deep-learning`: redes neuronales, CNNs, RNNs con PyTorch.
-- `06-deploy`: apps simples para desplegar modelos (Flask, Streamlit).
-
-## ✅ Próximos pasos
-
-- [ ] Terminar proyecto con red neuronal convolucional (imagen)
-- [ ] Subir notebook de análisis de Spotify
-- [ ] Desplegar modelo de predicción de precios con Flask
+- `01-🐍 Fundamentos de Python`: ejercicios con condiciones, bucles, funciones, juegos.
+- `02-📊 Python científico / Análisis de datos`: ejemplos con clases, herencia, encapsulamiento.
+- `03-🤖 Machine Learning con scikit-learn`: proyectos con Pandas, Matplotlib, análisis de datos.
+- `04-🧠 Deep Learning (PyTorch)`: modelos con scikit-learn (regresión, clasificación).
