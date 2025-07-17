@@ -18,10 +18,11 @@ Curso universitario con enfoque académico, ideal para entender desde lo más b�
 
 ## 📂 Estructura del contenido
 
+- `Piedra, Papel o Tijeras`: Juego interactivo en consola
 - `calculadora.py`: Mini calculadora interactiva en consola
 - `madlibs.py`: Juego Mad Libs usando inputs del usuario
 - `condicionales.py`: Práctica de lógica con `if` y `elif`
-- `bucles_ejercicios.py`: Serie de retos con `for` y `while`
+- `Bucles Ejercicios`: Serie de retos con `for` y `while`
 - `funciones.py`: Definición de funciones, argumentos, retorno
 - `poo_basica.py`: Ejemplo con clases y objetos (`Persona`, `Estudiante`)
 - `ejercicios.md`: Preguntas y prácticas resueltas de ambos cursos
