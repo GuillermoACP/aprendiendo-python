@@ -4,10 +4,10 @@ Este repositorio documenta mi proceso de aprendizaje desde Python básico hasta 
 
 ## 📚 Cursos completados
 
-- Learn Python – Full Course for Beginners: https://www.youtube.com/watch?v=rfscVS0vtbw
-- Python for Data Science – Full Course: https://www.youtube.com/watch?v=LHBE6Q9XlzI
-- Machine Learning with Python: https://www.youtube.com/watch?v=7eh4d6sabA0
-- PyTorch for Deep Learning: https://www.youtube.com/watch?v=GIsg-ZUy0MY
+-**Learn Python – Full Course for Beginners** (freeCodeCamp, ~4 h) ▶️ [Ver en YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
+-**Curso de Python desde Cero** (Píldoras Informáticas, ~7 h) ▶️ [Ver playlist](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
+
+
 
 ## 📂 Estructura del repositorio
 
