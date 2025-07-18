@@ -21,7 +21,7 @@ Esta carpeta contiene mis apuntes, ejercicios y proyectos realizados durante el 
 - `piedra_papel_tijeras.py`: Juego interactivo en consola
 - `calculadora.py`: Mini calculadora interactiva en consola
 - `madlibs.py`: Juego Mad Libs usando inputs del usuario
-- `condicionales.py`: Práctica de lógica con if y elif
+- `condicionales/`: Práctica de lógica con `if` y `elif`
 - `bucles/`: Serie de retos con bucles `for` y `while`
 - `funciones.py`: Definición de funciones, argumentos, retorno
 - `poo_basica.py`: Ejemplo con clases y objetos (Persona, Estudiante)

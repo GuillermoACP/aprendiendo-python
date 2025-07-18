@@ -19,6 +19,7 @@ Actualmente estoy enfocado en:
 Estoy viendo videos en YouTube para aprender de forma visual y práctica. Algunos canales y playlists que me están ayudando:
 
 - [Bucle for | Curso de Python desde cero 🐍](https://youtu.be/AP8-5GRwPig?si=O6oszZc8UEYSbQCQ)
+- [Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 
 *(Voy agregando más enlaces conforme voy aprendiendo)*
 
