@@ -5,6 +5,7 @@ Este repositorio documenta mi proceso de aprendizaje desde Python básico hasta 
 ## 📚 Cursos completados
 
 -**Learn Python – Full Course for Beginners** (freeCodeCamp, ~4 h) ▶️ [Ver en YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
 -**Curso de Python desde Cero** (Píldoras Informáticas, ~7 h) ▶️ [Ver playlist](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 
 

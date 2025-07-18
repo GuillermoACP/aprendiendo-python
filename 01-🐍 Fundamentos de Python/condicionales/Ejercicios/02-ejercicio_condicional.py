@@ -12,6 +12,14 @@ def tiene_caracter_especial(cadena):
 
 print(tiene_caracter_especial(contraseña))
 
+#Version Compacta IA:
+
+# def tiene_caracter_especial(cadena):
+#     return any(c in cadena for c in ['@', '#', '!'])
+
+# contraseña = input('Crea tu Contraseña: ')
+# print(tiene_caracter_especial(contraseña))
+
 
 # Pistas:
 #     Puedes usar in varias veces combinado con or.
