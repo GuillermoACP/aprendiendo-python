@@ -31,12 +31,12 @@ El objetivo principal es reforzar la lógica de programación y el uso correcto 
 ```
 Cada carpeta corresponde a un tema del tutorial de W3Schools y contiene tres ejercicios prácticos relacionados.
 
-##📎 Documentación relevante
+##  📎 Documentación relevante
 
 Los ejercicios se basan en la documentación oficial de Python:
 
-    [Documentación oficial de Python](https://docs.python.org/3/)
+-[Documentación oficial de Python](https://docs.python.org/3/)
 
-    [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+-[W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
 ¡Este repositorio está en constante crecimiento! 💪
